@@ -37,7 +37,7 @@ function Projects() {
               imgPath={tree}
               isBlog={false}
               title="Water The Trees"
-              description="Water the Trees is a platform that crowd sources tree planting and maintenance. We believe in the power of trees to restore natural habitat for animals, insects, and fauna. We are interesting in continuous massive tree planting events to help sequester carbon and stabilize climate change extremes
+              description="Water the Trees is a platform that crowd sources tree planting and maintenance. We believe in the power of trees to restore natural habitat for animals, insects, and fauna. We are interested in continuous massive tree planting events to help sequester carbon and stabilize climate change extremes
                                 This project uses Mapbox React.js, Node.js, Express.js, PostgreSQL/PostGIS, Docker."
               ghLink="https://github.com/waterthetrees/waterthetrees"
               demoLink="https://waterthetrees.com/"              
