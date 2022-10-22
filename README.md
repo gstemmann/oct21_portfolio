@@ -2,9 +2,6 @@
   Portfolio Website - v2.0<br/>
   <a href="https://portfolio-website-2021.surge.sh/" target="_blank">George Stemmann</a>
 </h2>
-<div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
-</div>
 
 <br/>
 
@@ -20,3 +17,15 @@ This project was built using these technologies.
 - CSS3
 - VsCode
 - Vercel
+<<<<<<< HEAD
+=======
+
+## Features
+
+**📖 Multi-Page Layout**
+
+**🎨 Styled with React-Bootstrap and CSS**
+
+**📱 Fully Responsive**
+
+>>>>>>> 709f3d1dab44af47565a90b15b2458c004d4539c
