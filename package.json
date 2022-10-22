@@ -29,7 +29,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "pre-deploy": "cp build/index.html build/200.html",
-    "deploy": "surge -p build -d https://portfolio-website-2021.surge.sh"
+    "deploy": "surge -p build -d https://georgestemmann.surge.sh"
   },
   "eslintConfig": {
     "extends": [

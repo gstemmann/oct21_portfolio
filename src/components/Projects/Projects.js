@@ -6,6 +6,7 @@ import editor from "../../Assets/Projects/codeEditor.png";
 import radiation from "../../Assets/radiation.webp";
 import squirtle from "../../Assets/b201181cd337130bbec6d9f9f00a2932.png";
 import Particle from "../Particle";
+import Charizard from "../../Assets/charizard.png";
 
 
 function Projects() {
