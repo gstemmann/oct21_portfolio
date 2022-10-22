@@ -27,5 +27,3 @@ This project was built using these technologies.
 **🎨 Styled with React-Bootstrap and CSS**
 
 **📱 Fully Responsive**
-
->>>>>>> 709f3d1dab44af47565a90b15b2458c004d4539c
